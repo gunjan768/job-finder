@@ -32,7 +32,7 @@ export const fetchJobs = ({ latitude, longitude }, callback) =>
             //     type: 'HEADER',
             //     headers:
             //     {
-            //         "api-key": "PpZRyYOLYmgiSv8nK3SVRapaJE1fZ25N"
+            //         "api-key": ""
             //     }
             // });
 
