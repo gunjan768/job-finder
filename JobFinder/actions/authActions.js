@@ -2,8 +2,8 @@ import { AsyncStorage } from 'react-native';
 import * as Facebook from 'expo-facebook';
 import { FACEBOOK_LOGIN_SUCCESS, FACEBOOK_LOGIN_FAIL } from './types';
 
-const APP_ID = "1568115676680865";
-const APP_NAME = "JobFinder";
+const APP_ID = "";
+const APP_NAME = "";
 
 export const facebookLogin = () =>
 {
